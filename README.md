@@ -87,4 +87,4 @@ terraform destroy -auto-approve
 
 **Finalement, nous avons terminé avec succès toutes les tâches et notre projet est terminé.**
 
-Dépôt Github : 
+Dépôt Github : https://github.com/asmaakhaider/AWS_Terraform_Architecture/tree/main
